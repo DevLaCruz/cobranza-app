@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cobranza-app/build/static/css/main.e2e552b0.css",
+    "main.js": "/cobranza-app/build/static/js/main.cd687435.js",
+    "static/js/787.02f5827b.chunk.js": "/cobranza-app/build/static/js/787.02f5827b.chunk.js",
+    "index.html": "/cobranza-app/build/index.html",
+    "main.e2e552b0.css.map": "/cobranza-app/build/static/css/main.e2e552b0.css.map",
+    "main.cd687435.js.map": "/cobranza-app/build/static/js/main.cd687435.js.map",
+    "787.02f5827b.chunk.js.map": "/cobranza-app/build/static/js/787.02f5827b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2e552b0.css",
+    "static/js/main.cd687435.js"
+  ]
+}
